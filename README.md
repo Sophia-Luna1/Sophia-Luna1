@@ -42,7 +42,3 @@
 ### [Another Project](#)
 **Description:** Brief description of the project.  
 **Tech Stack:** List of technologies used.
-
----
-
-*Note: Replace placeholders with your actual information.*
